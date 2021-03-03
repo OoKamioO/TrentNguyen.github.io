@@ -2,5 +2,5 @@
 
 Lab 3 Map
 
-[water_choropleth_map.html]
+[choroplethmap][water_choropleth_map.html]
 
